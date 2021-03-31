@@ -35,6 +35,8 @@ dependencies:
   downloads_path_provider_28: ^0.1.0
   permission_handler: ^4.4.0+hotfix.2
   open_file: ^3.0.1
+  # adding notifications in version 2
+  flutter_local_notifications: ^1.3.0
 
 dev_dependencies:
   flutter_test:

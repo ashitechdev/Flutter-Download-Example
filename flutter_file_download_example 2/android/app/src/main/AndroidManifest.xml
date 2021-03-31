@@ -9,7 +9,7 @@
         android:label="flutter_file_download_example"
         android:requestLegacyExternalStorage="true"
         android:icon="@mipmap/ic_launcher">
-       <activity
+        <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"
             android:theme="@style/LaunchTheme"
