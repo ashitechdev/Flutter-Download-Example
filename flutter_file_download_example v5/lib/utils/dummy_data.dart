@@ -31,7 +31,10 @@ List<DemoData> data = [
       fileType: "PDF",
       fileName: "downloaded_pdf.pdf",
       fileUrl:
-          "https://sambazmusic.files.wordpress.com/2017/08/give-and-take.pdf"),
+          "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+      // fileUrl:
+      //     "https://sambazmusic.files.wordpress.com/2017/08/give-and-take.pdf"
+      ),
   DemoData(
       fileType: "Video",
       fileName: "downloaded_video.mp4",
