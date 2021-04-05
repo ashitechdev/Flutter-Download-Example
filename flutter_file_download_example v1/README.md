@@ -1,8 +1,9 @@
 # flutter_file_download_example v1
 
 Demo:
-https://github.com/ashitechdev/Flutter-Download-Example/blob/master/flutter_file_download_example%20v1/assets/live_demo.gif
+https://raw.githubusercontent.com/ashitechdev/Flutter-Download-Example/master/flutter_file_download_example%20v1/assets/live_demo.gif
 
+---------------------------
 ## Getting Started
 
 This project is a Flutter application.
