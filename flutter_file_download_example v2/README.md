@@ -1,10 +1,12 @@
-# flutter_file_download_example
+# flutter_file_download_example v2
 
-A new Flutter application.
+Demo:
+![Demo](https://raw.githubusercontent.com/ashitechdev/Flutter-Download-Example/master/flutter_file_download_example%20v2/assets/live_demo.gif)
 
+---------------------------
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
