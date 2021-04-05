@@ -1,10 +1,28 @@
 # flutter_file_download_example
 
-A new Flutter application.
+[Click for Detailed Step by Step Explanation.](https://www.instagram.com/p/CNEXZiXjlf8/).
 
+-------------------
+
+*TIMELINE*
+
+v1 - Basic Downlaoding Feature.
+
+v2 - Added Notifications.
+
+v3 - Added Progress Indicator.
+
+v4 - Added State Management with Provider.
+
+v5 - Added more file formats for experimenting purpose.
+
+v6 - TODO: add support for WEB.
+
+
+-------------------------------
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
